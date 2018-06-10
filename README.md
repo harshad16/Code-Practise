@@ -1,2 +1,2 @@
 # Code-Practise
-HackerRank contest codes and solutions.
+HackerRank and HackerEarth contest codes and solutions.
